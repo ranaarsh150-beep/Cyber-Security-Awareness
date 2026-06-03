@@ -1,0 +1,62 @@
+﻿≡ƒôü  Found 44 image(s) in C:\Users\ASUS\OneDrive\Desktop\cyber-shield-hub-main\public\uploads
+
+≡ƒöù  Connecting to MongoDBΓÇª
+Γ£à  Connected.
+
+≡ƒô░  Processing 23 article(s)ΓÇª
+   Γ£à  [Article] "Recognizing phishing emails"  ΓåÆ  Recognizing phishing emails.webp  (score: 1.00)
+   Γ£à  [Article] "Strong password strategies"  ΓåÆ  Strong password strategies.webp  (score: 1.00)
+   Γ£à  [Article] "Two-factor authentication explained"  ΓåÆ  Two-factor authentication explained.webp  (score: 1.00)
+   Γ£à  [Article] "Public WiFi risks"  ΓåÆ  Public WiFi risks.webp  (score: 1.00)
+   Γ£à  [Article] "Social engineering attacks"  ΓåÆ  Social engineering attacks.webp  (score: 1.00)
+   Γ£à  [Article] "Ransomware protection"  ΓåÆ  Ransomware protection.webp  (score: 1.00)
+   Γ£à  [Article] "Safe browsing habits"  ΓåÆ  Safe browsing habits.webp  (score: 1.00)
+   Γ£à  [Article] "Mobile security tips"  ΓåÆ  Mobile security tips.webp  (score: 1.00)
+   Γ£à  [Article] "Data privacy fundamentals"  ΓåÆ  Data privacy fundamentals.webp  (score: 1.00)
+   Γ£à  [Article] "Understanding malware types"  ΓåÆ  Understanding malware types.webp  (score: 1.00)
+   Γ£à  [Article] "Email spoofing explained"  ΓåÆ  Email spoofing explained.webp  (score: 1.00)
+   Γ£à  [Article] "Secure file sharing"  ΓåÆ  Secure file sharing.webp  (score: 1.00)
+   Γ£à  [Article] "Importance of software updates"  ΓåÆ  Importance of software updates.webp  (score: 1.00)
+   Γ£à  [Article] "Insider threats in organizations"  ΓåÆ  Insider threats in organizations.webp  (score: 1.00)
+   Γ£à  [Article] "What is a VPN?"  ΓåÆ  What is a VPN.webp  (score: 1.00)
+   Γ£à  [Article] "Cybersecurity best practices"  ΓåÆ  Cybersecurity best practices.webp  (score: 1.00)
+   Γ£à  [Article] "Cloud security risks"  ΓåÆ  Cloud security risks.webp  (score: 1.00)
+   Γ£à  [Article] "Brute force attacks"  ΓåÆ  Brute force attacks.webp  (score: 1.00)
+   Γ£à  [Article] "Zero-day vulnerabilities"  ΓåÆ  Zero-day vulnerabilities.webp  (score: 1.00)
+   Γ£à  [Article] "IoT security risks"  ΓåÆ  IoT security risks.webp  (score: 1.00)
+   Γ£à  [Article] "Password cracking methods"  ΓåÆ  Password cracking methods.webp  (score: 1.00)
+   Γ£à  [Article] "Digital footprint awareness"  ΓåÆ  Digital footprint awareness.webp  (score: 1.00)
+   Γ£à  [Article] "Cyber hygiene practices"  ΓåÆ  Cyber hygiene practices.webp  (score: 1.00)
+
+ΓÜö∩╕Å   Processing 10 attack(s)ΓÇª
+   Γ£à  [Attack] "Phishing"  ΓåÆ  Phishing.webp  (score: 1.00)
+   Γ£à  [Attack] "Ransomware"  ΓåÆ  Ransomware.webp  (score: 1.00)
+   Γ£à  [Attack] "Malware"  ΓåÆ  Malware.webp  (score: 1.00)
+   Γ£à  [Attack] "DDoS Attack"  ΓåÆ  DDoS Attack.webp  (score: 1.00)
+   Γ£à  [Attack] "Man-in-the-Middle"  ΓåÆ  Man-in-the-Middle.webp  (score: 1.00)
+   Γ£à  [Attack] "SQL Injection"  ΓåÆ  SQL Injection.webp  (score: 1.00)
+   Γ£à  [Attack] "Cross-Site Scripting"  ΓåÆ  Cross-Site Scripting.webp  (score: 1.00)
+   Γ£à  [Attack] "Zero-Day Exploit"  ΓåÆ  Zero-Day Exploit.webp  (score: 1.00)
+   Γ£à  [Attack] "Social Engineering"  ΓåÆ  Social engineering attacks.webp  (score: 1.00)
+   Γ£à  [Attack] "Password Attack"  ΓåÆ  Password Attack.webp  (score: 1.00)
+
+≡ƒ¢í∩╕Å   Processing 10 prevention(s)ΓÇª
+   Γ£à  [Prevention] "Use Strong Passwords"  ΓåÆ  Use Strong Passwords.webp  (score: 1.00)
+   Γ£à  [Prevention] "Enable 2FA/MFA"  ΓåÆ  Enable.webp  (score: 0.97)
+   Γ£à  [Prevention] "Keep Software Updated"  ΓåÆ  Keep Software Updated.webp  (score: 1.00)
+   Γ£à  [Prevention] "Use a VPN"  ΓåÆ  Use a VPN.webp  (score: 1.00)
+   Γ£à  [Prevention] "Install Antivirus"  ΓåÆ  Install Antivirus.webp  (score: 1.00)
+   Γ£à  [Prevention] "Beware of Suspicious Links"  ΓåÆ  Beware of Suspicious Links.webp  (score: 1.00)
+   Γ£à  [Prevention] "Backup Your Data"  ΓåÆ  Backup Your Data.webp  (score: 1.00)
+   Γ£à  [Prevention] "Secure Your Network"  ΓåÆ  Secure Your Network 2.webp  (score: 1.00)
+   Γ£à  [Prevention] "Monitor Accounts"  ΓåÆ  Monitor Accounts.webp  (score: 1.00)
+   Γ£à  [Prevention] "Educate Yourself"  ΓåÆ  Educate Yourself.webp  (score: 1.00)
+
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+≡ƒôè  Summary
+   Articles  updated : 23 / 23
+   Attacks   updated : 10 / 10
+   Preventions updated: 10 / 10
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+Γ£à  Done.

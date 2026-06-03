@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: cybershield-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  app:
+    container_name: cybershield-app
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:
